@@ -1,0 +1,15 @@
+{
+  "latest_version": "26.1.0",
+  "release_date": "2026-09-05",
+  "mandatory": false,
+  "min_required_version": "",
+  "download_url": "https://github.com/Atria3D/Releases/releases/download/v26.1.0/Instalador_ATRIA_3D_Pro_2026.exe",
+  "sha256": "",
+  "changelog": [
+    "Versión inicial de lanzamiento para testers (v26.1.0)",
+    "Motor de visualización 3D y análisis de piezas",
+    "Sistema de presupuestos, despieces y escandallo de materiales",
+    "Módulo de soldadura, tratamientos y exportación a planos técnicos",
+    "Sistema de actualizaciones automáticas integrado"
+  ]
+}
